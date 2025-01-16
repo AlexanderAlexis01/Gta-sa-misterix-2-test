@@ -1,1 +1,1 @@
-# Gta-sa-misterix-2-test
+from what ik i  only need to make the weapon  (Plasma) spawn before the last mission (it should be the ufo battle mixplex) or something, and  the mission progress it works with a counter/timer wich is like ±1 and when u get the weapo it should ge the text too of it (wich  alread exists but normally the gun spawns after the boss fight wich  i want the weapon to spawn before that fight, there are comments wich says shit like this, just search plasma or ufo
